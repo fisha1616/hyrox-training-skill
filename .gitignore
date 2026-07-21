@@ -20,3 +20,6 @@ Thumbs.db
 # 打包文件（如果有的话）
 *.zip
 *.tar.gz
+
+# WorkBuddy 工具目录
+.workbuddy/
